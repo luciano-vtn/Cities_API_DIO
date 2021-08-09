@@ -1,5 +1,7 @@
-package com.github.lucianovtn.cities_api.states;
+package com.github.lucianovtn.cities_api.states.resource;
 
+import com.github.lucianovtn.cities_api.states.entities.State;
+import com.github.lucianovtn.cities_api.states.repository.StateRepository;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

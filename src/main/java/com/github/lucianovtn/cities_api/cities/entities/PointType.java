@@ -1,4 +1,4 @@
-package com.github.lucianovtn.cities_api.cities;
+package com.github.lucianovtn.cities_api.cities.entities;
 
 import java.io.Serializable;
 import java.sql.PreparedStatement;

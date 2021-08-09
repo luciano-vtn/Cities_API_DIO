@@ -1,5 +1,6 @@
-package com.github.lucianovtn.cities_api.cities;
+package com.github.lucianovtn.cities_api.cities.repository;
 
+import com.github.lucianovtn.cities_api.cities.entities.City;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 

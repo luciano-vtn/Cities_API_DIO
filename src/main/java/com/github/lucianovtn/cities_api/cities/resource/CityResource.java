@@ -1,5 +1,7 @@
-package com.github.lucianovtn.cities_api.cities;
+package com.github.lucianovtn.cities_api.cities.resource;
 
+import com.github.lucianovtn.cities_api.cities.entities.City;
+import com.github.lucianovtn.cities_api.cities.repository.CityRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,7 +1,7 @@
-package com.github.lucianovtn.cities_api.states;
+package com.github.lucianovtn.cities_api.states.entities;
 
 
-import com.github.lucianovtn.cities_api.countries.Country;
+import com.github.lucianovtn.cities_api.countries.entities.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;

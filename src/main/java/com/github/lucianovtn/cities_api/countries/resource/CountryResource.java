@@ -1,6 +1,7 @@
-package com.github.lucianovtn.cities_api.countries;
+package com.github.lucianovtn.cities_api.countries.resource;
 
 
+import com.github.lucianovtn.cities_api.countries.entities.Country;
 import com.github.lucianovtn.cities_api.countries.repository.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

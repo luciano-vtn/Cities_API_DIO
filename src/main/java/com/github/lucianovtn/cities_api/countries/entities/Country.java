@@ -1,4 +1,4 @@
-package com.github.lucianovtn.cities_api.countries;
+package com.github.lucianovtn.cities_api.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -3,8 +3,8 @@ package com.github.lucianovtn.cities_api.distances.service;
 import java.util.Arrays;
 import java.util.List;
 
-import com.github.lucianovtn.cities_api.cities.City;
-import com.github.lucianovtn.cities_api.cities.CityRepository;
+import com.github.lucianovtn.cities_api.cities.entities.City;
+import com.github.lucianovtn.cities_api.cities.repository.CityRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.data.geo.Point;
